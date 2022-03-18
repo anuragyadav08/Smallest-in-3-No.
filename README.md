@@ -1,0 +1,1 @@
+# Smallest-in-3-No.
